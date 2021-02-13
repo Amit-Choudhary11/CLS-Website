@@ -34,15 +34,26 @@ html {
     float: right;
 }
 
-#whats_new{
-    margin-bottom: 50px;
+
+.alumni{
+    cursor: pointer;
 }
 
-
-.whats_new ul{
-    margin-bottom: 50px;
+.modal-content{
+    margin-top: 100px;
 }
 
+.img-modal{
+    display: inline-block;
+}
+
+.p_modal{
+    margin-top: 10px;
+}
+
+#contact_us{
+    margin-top: 70px;
+}
 
 
 
